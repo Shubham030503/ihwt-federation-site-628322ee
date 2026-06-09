@@ -1,5 +1,7 @@
 # IHWT Federation Website
 
+**Live Site:** [https://ihwt-federation-site.lovable.app](https://ihwt-federation-site.lovable.app)
+
 International Health, Wellness & Tourism Federation — premium event & federation website built with TanStack Start, React 19, Tailwind CSS v4 and TypeScript.
 
 ## Tech Stack
