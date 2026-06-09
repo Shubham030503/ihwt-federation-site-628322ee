@@ -86,8 +86,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:title", content: "IHWT — International Health, Wellness & Tourism Federation" },
       { name: "twitter:description", content: "Connecting global healthcare, wellness and medical tourism ecosystems through events, partnerships and innovation." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/04ad48b6-637e-4f4f-9e94-4f15f3ad622a/id-preview-c993f956--ff27dcad-bbb7-45e8-9b1b-05deeaa10fa7.lovable.app-1781007307468.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/04ad48b6-637e-4f4f-9e94-4f15f3ad622a/id-preview-c993f956--ff27dcad-bbb7-45e8-9b1b-05deeaa10fa7.lovable.app-1781007307468.png" },
+      { property: "og:image", content: "/og-image.jpg" },
+      { name: "twitter:image", content: "/og-image.jpg" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
